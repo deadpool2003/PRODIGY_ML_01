@@ -1,1 +1,1 @@
-# PRODIGY_ML_01
+Hello, Here I developed a Machine learning model for House Price Prediction with the performace rate of 0.699969 %. And I also attached sample dataset file which I had used for my testing and training purpose. This is a task given by the Prodigy company for the internship program. I had gained a lot of things in this project. Thank you for the opportunity.
